@@ -8,8 +8,6 @@ class API {
         this.web = new WebClient(this.SLACK_TOKEN);
         this.username = username;
         this.commonOptions = {query: `from:@${username}`,};
-    //    this.commonOptions = {query: `in:#all-deletions`,};
-
     }
 
     async getPaginationInfo(){
