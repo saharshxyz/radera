@@ -11,4 +11,6 @@
 2. Clone this repo
 3. Rename `.env.template` to `.env` and add in the required variables
     * You can find your `OAUTH_ACCESS_TOKEN` in the "Install App" tab of your slack app settings
-5. Run `npm i && npm start`
+4. Run `npm i && npm start`
+
+Note: Setting your env vars through a `.env` file may not work. If this happens to you, run `export OAUTH_ACCESS_TOKEN=xoxp-YOUR_TOKEN`, `export SLACK_USERNAME=YOUR_SLACK_USERNAME`, and then `npm start`
