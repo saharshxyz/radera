@@ -1,5 +1,5 @@
 # radera
-Based on [saharshxyz/arkiv](https://github.com/saharshxyz/arkiv/), which both archives, and deletes, your slack messages/files.
+Based on [jbis9051/slackdelete/](https://github.com/jbis9051/slackdelete/), which both archives, and deletes, your slack messages/files.
 
 ## Instructions
 
