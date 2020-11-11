@@ -1,4 +1,5 @@
-# slackdelete
+# arkiv
+Forked from [jbis9051/slackdelete](https://github.com/jbis9051/slackdelete/)
 
 ## Instructions
 
